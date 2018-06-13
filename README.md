@@ -17,9 +17,21 @@ Je kan plaatje of video achter de pijltjes doen. Aan het einde zeggen hoeveel pr
 https://stud.hosted.hr.nl/0884930/GarbageGame/
 
 • Classes
+
+Classes zijn de blauwdrukken van de objecten en andere dingen die je in je spel wil. Dit is toegepast bij mij voor de vuilnisbakken en het vuilnis, maar ook bij de verschillende schermen die ik gebruik. Dit is hier toegepast, omdat je zo alle code per object uit elkaar kan houden. je programmeert per object. 
+
 • Encapsulation
+
+Dit is het public, protected of private maken van variabelen en functies. Dit is handig voor wanneer je bijvoorbeeld zoekt waar iets vandaan komt of waar iets misgaat, als het private is moet je in het object zelf zoeken. Bij protected is het in het object zelf of een parent object. Bij public kan het overal opgeroepen worden, dus private is opzich wel handiger, maar soms is public wel nodig. Soms moet je bijvoorbeeld twee dingen combineren die niet in de zelfde objecten zitten.
+
 • Composition
+
+Composition is het geven van verschillende schermen aan je spel. Dit heb ik in mijn project gedaan door een beginscherm, een speelscherm en een eindscherm te geven.
+
 • Inheritance
+
+Inheritance is het overerven van eigenschappen door objecten. Je maakt een parant klas die de overlappende eigenschappen van twee child classes krijgt en daaruit laat je die twee child classes hun eigenschappen halen. Dat is hier gebeurd met de eigenschappen van de vuilnisbak en het vuilnis, ze hebben allebei bijvoorbeeld een X en Y positie en een X en Y snelheid. Daardoor kan je deze heel goed samenvoegen in een parent class.
+
 
 + Per bovengenoemd OOP principe een uitleg: waar is het toegepast, en waarom is het
 op die plek toegepast. De uitleg is inclusief code voorbeelden.
