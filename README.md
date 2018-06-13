@@ -16,3 +16,12 @@ Je kan plaatje of video achter de pijltjes doen. Aan het einde zeggen hoeveel pr
 
 https://stud.hosted.hr.nl/0884930/GarbageGame/
 
+• Classes
+• Encapsulation
+• Composition
+• Inheritance
+
++ Per bovengenoemd OOP principe een uitleg: waar is het toegepast, en waarom is het
+op die plek toegepast. De uitleg is inclusief code voorbeelden.
++ Een klassendiagram van de game.
+
