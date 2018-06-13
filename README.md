@@ -32,6 +32,8 @@ Composition is het geven van verschillende schermen aan je spel. Dit heb ik in m
 
 Inheritance is het overerven van eigenschappen door objecten. Je maakt een parant klas die de overlappende eigenschappen van twee child classes krijgt en daaruit laat je die twee child classes hun eigenschappen halen. Dat is hier gebeurd met de eigenschappen van de vuilnisbak en het vuilnis, ze hebben allebei bijvoorbeeld een X en Y positie en een div variabele. Daardoor kan je deze heel goed samenvoegen in een parent class.
 
+Hier is een link van mijn klassen diagram: https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note.png
+
 
 + Per bovengenoemd OOP principe een uitleg: waar is het toegepast, en waarom is het
 op die plek toegepast. De uitleg is inclusief code voorbeelden.
