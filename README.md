@@ -26,7 +26,7 @@ Dit is het public, protected of private maken van variabelen en functies. Dit is
 
 • Composition
 
-Composition is het geven van verschillende schermen aan je spel. Dit heb ik in mijn project gedaan door een beginscherm, een speelscherm en een eindscherm te geven.
+Composition is het bepalen welke class onder welke andere class valt en het linken en doorgeven van eigenschappen daarvan. Zoals dat in mijn spel het playscreen gameobjects heeft, die bestaan uit trashcans en trashes.
 
 • Inheritance
 
