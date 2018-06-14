@@ -22,7 +22,7 @@ Classes zijn de blauwdrukken van de objecten en andere dingen die je in je spel 
 
 • Encapsulation
 
-Dit is het public, protected of private maken van variabelen en functies. Dit is handig voor wanneer je bijvoorbeeld zoekt waar iets vandaan komt of waar iets misgaat, als het private is moet je in het object zelf zoeken. Bij protected is het in het object zelf of een parent object. Bij public kan het overal opgeroepen worden, dus private is opzich wel handiger, maar soms is public wel nodig. Soms moet je bijvoorbeeld twee dingen combineren die niet in de zelfde objecten zitten.
+Dit is het public, protected of private maken van variabelen en functies. Dit is handig voor wanneer je bijvoorbeeld zoekt waar iets vandaan komt of waar iets misgaat, als het private is moet je in het object zelf zoeken. Bij protected is het in het object zelf of een child object. Bij public kan het overal opgeroepen worden, dus private is opzich wel handiger, maar soms is public wel nodig. Soms moet je bijvoorbeeld twee dingen combineren die niet in de zelfde objecten zitten.
 
 • Composition
 
