@@ -1,6 +1,6 @@
 # Game
 
-#REVIEW
+# REVIEW
 
 Ik heb Tim's spel geprobeerd en het is een super leuk idee, waarschijnlijk lichtelijk gebaseerd op Dance Dance Revolution. 
 
@@ -12,13 +12,14 @@ Tips
 
 Je kan plaatje of video achter de pijltjes doen. Aan het einde zeggen hoeveel procent je hebt gehaald of hoeveel van de hoeveel punten dat je kon halen opschrijven. Ook misschien je punten wat groter of dichterbij je pijltjes dan hoef je niet ver weg te kijken en kan je blijven focussen op het spel. En feedback of je het goed aan het doen bent of dat je ze mist.
 
-#Mijn eigen spel
+# Mijn eigen spel
 
 https://stud.hosted.hr.nl/0884930/GarbageGame/
 
 • Classes
 
 Classes zijn de blauwdrukken van de objecten en andere dingen die je in je spel wil. Dit is toegepast bij mij voor de vuilnisbakken en het vuilnis, maar ook bij de verschillende schermen die ik gebruik. Dit is hier toegepast, omdat je zo alle code per object uit elkaar kan houden. je programmeert per object. 
+
 
 • Encapsulation
 
