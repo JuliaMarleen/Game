@@ -35,6 +35,9 @@ Inheritance is het overerven van eigenschappen door objecten. Je maakt een paran
 
 Hier is een link van mijn klassen diagram: https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png
 
+### Klassendiagram
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png)
+
 
 + Per bovengenoemd OOP principe een uitleg: waar is het toegepast, en waarom is het
 op die plek toegepast. De uitleg is inclusief code voorbeelden.
