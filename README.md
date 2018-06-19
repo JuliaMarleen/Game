@@ -35,9 +35,9 @@ Dit is het public, protected of private maken van variabelen en functies. Dit is
 
 Composition is het bepalen welke class onder welke andere class valt en het linken en doorgeven van eigenschappen daarvan. Zoals dat in mijn spel het playscreen gameobjects heeft, die bestaan uit trashcans en trashes.
 
-![](https://s//tud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png)
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/composition1.png)
 
-![](https://s//tud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png)
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/composition2.png)
 
 • Inheritance
 
