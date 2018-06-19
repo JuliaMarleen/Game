@@ -20,26 +20,32 @@ https://stud.hosted.hr.nl/0884930/GarbageGame/
 
 Classes zijn de blauwdrukken van de objecten en andere dingen die je in je spel wil. Dit is toegepast bij mij voor de vuilnisbakken en het vuilnis, maar ook bij de verschillende schermen die ik gebruik. Dit is hier toegepast, omdat je zo alle code per object uit elkaar kan houden. je programmeert per object. 
 
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/classes.png)
+
 
 • Encapsulation
 
 Dit is het public, protected of private maken van variabelen en functies. Dit is handig voor wanneer je bijvoorbeeld zoekt waar iets vandaan komt of waar iets misgaat, als het private is moet je in het object zelf zoeken. Bij protected is het in het object zelf of een child object. Bij public kan het overal opgeroepen worden, dus private is opzich wel handiger, maar soms is public wel nodig. Soms moet je bijvoorbeeld twee dingen combineren die niet in de zelfde objecten zitten.
 
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/overerven1-e1529407229676.png)
+
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/encapsulation2.png)
+
 • Composition
 
 Composition is het bepalen welke class onder welke andere class valt en het linken en doorgeven van eigenschappen daarvan. Zoals dat in mijn spel het playscreen gameobjects heeft, die bestaan uit trashcans en trashes.
+
+![](https://s//tud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png)
+
+![](https://s//tud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png)
 
 • Inheritance
 
 Inheritance is het overerven van eigenschappen door objecten. Je maakt een parant klas die de overlappende eigenschappen van twee child classes krijgt en daaruit laat je die twee child classes hun eigenschappen halen. Dat is hier gebeurd met de eigenschappen van de vuilnisbak en het vuilnis, ze hebben allebei bijvoorbeeld een X en Y positie en een div variabele. Daardoor kan je deze heel goed samenvoegen in een parent class.
 
-Hier is een link van mijn klassen diagram: https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/encapsulation1.png)
+
+![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/overerven2.png)
 
 ### Klassendiagram
 ![](https://stud.hosted.hr.nl/0884930/wp-content/uploads/2018/06/klassendiagram-note-2.png)
-
-
-+ Per bovengenoemd OOP principe een uitleg: waar is het toegepast, en waarom is het
-op die plek toegepast. De uitleg is inclusief code voorbeelden.
-+ Een klassendiagram van de game.
-
