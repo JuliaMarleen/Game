@@ -4,6 +4,26 @@
 
 Ik heb Tim's spel geprobeerd en het is een super leuk idee, waarschijnlijk lichtelijk gebaseerd op Dance Dance Revolution. 
 
+Y • De code van het individuele project staat op GitHub.
+Y • De game is online speelbaar.
+Y • De game bevat minimaal één van de onderstaande extra uitdagingen.
+N • De game heeft een startscherm en een eindscherm.  (niet op het moment dat ik het speelde)
+N • Er zijn geen bugs.  (niet op het moment dat ik het speelde)
+Het project maakt gebruik van deze OOP principes:
+Y - Classes
+Y - Encapsulation
+Y - Composition
+Y - Inheritance
+ 
+ Extra uitdagingen:
+Y • De game ziet er zeer verzorgd uit dankzij goed uitgewerkt UI design en artwork.
+N • De game bevat een hiscore lijst. Scores worden bewaard nadat de game is afgesloten.
+N • De game werkt met Canvas in plaats van DOM elementen
+N • De game bevat local of online multiplayer.
+N • De game werkt op mobiele schermen en ondersteunt touchscreen controls.
+N • De game maakt gebruik van device api's zoals de camera, microfoon, gyroscoop of GPS.
+N • De game gebruikt een externe library uit de lijst in deze modulewijzer. 
+
 Pluspunten
 
 Het is goed te spelen en een leuk idee. Het loopt goed alleen niet helemaal op de beat. De sprites Werken ook goed en passen mooi bij het spel. 
