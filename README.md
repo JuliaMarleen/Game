@@ -2,27 +2,27 @@
 
 ## REVIEW
 
-Ik heb Tim's spel geprobeerd en het is een super leuk idee, waarschijnlijk lichtelijk gebaseerd op Dance Dance Revolution. 
-
-Y • De code van het individuele project staat op GitHub.
-Y • De game is online speelbaar.
-Y • De game bevat minimaal één van de onderstaande extra uitdagingen.
-N • De game heeft een startscherm en een eindscherm.  (niet op het moment dat ik het speelde)
-N • Er zijn geen bugs.  (niet op het moment dat ik het speelde)
-Het project maakt gebruik van deze OOP principes:
-Y - Classes
-Y - Encapsulation
-Y - Composition
-Y - Inheritance
- 
- Extra uitdagingen:
-Y • De game ziet er zeer verzorgd uit dankzij goed uitgewerkt UI design en artwork.
-N • De game bevat een hiscore lijst. Scores worden bewaard nadat de game is afgesloten.
-N • De game werkt met Canvas in plaats van DOM elementen
-N • De game bevat local of online multiplayer.
-N • De game werkt op mobiele schermen en ondersteunt touchscreen controls.
-N • De game maakt gebruik van device api's zoals de camera, microfoon, gyroscoop of GPS.
-N • De game gebruikt een externe library uit de lijst in deze modulewijzer. 
+Ik heb Tim's spel geprobeerd en het is een super leuk idee, waarschijnlijk lichtelijk gebaseerd op Dance Dance Revolution. <br>
+<br>
+Y • De code van het individuele project staat op GitHub. <br>
+Y • De game is online speelbaar.<br>
+Y • De game bevat minimaal één van de onderstaande extra uitdagingen.<br>
+N • De game heeft een startscherm en een eindscherm.  (niet op het moment dat ik het speelde)<br>
+N • Er zijn geen bugs.  (niet op het moment dat ik het speelde)<br>
+Het project maakt gebruik van deze OOP principes:<br>
+Y - Classes<br>
+Y - Encapsulation<br>
+Y - Composition<br>
+Y - Inheritance<br>
+ <br>
+ Extra uitdagingen:<br>
+Y • De game ziet er zeer verzorgd uit dankzij goed uitgewerkt UI design en artwork.<br>
+N • De game bevat een hiscore lijst. Scores worden bewaard nadat de game is afgesloten.<br>
+N • De game werkt met Canvas in plaats van DOM elementen<br>
+N • De game bevat local of online multiplayer.<br>
+N • De game werkt op mobiele schermen en ondersteunt touchscreen controls.<br>
+N • De game maakt gebruik van device api's zoals de camera, microfoon, gyroscoop of GPS.<br>
+N • De game gebruikt een externe library uit de lijst in deze modulewijzer. <br>
 
 Pluspunten
 
