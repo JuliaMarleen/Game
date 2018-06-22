@@ -35,6 +35,7 @@ Je kan plaatje of video achter de pijltjes doen. Aan het einde zeggen hoeveel pr
 ## Mijn eigen spel
 
 https://stud.hosted.hr.nl/0884930/GarbageGame/
+De extra uitdaging die ik heb gebruikt was local multiplayer.
 
 ### Classes
 
